@@ -1,6 +1,6 @@
 # Connor Benton
 
-**'Test'**
+**`Statistics, Data Science, and Analytics`**
 
 I am an undergraduate at Kennesaw State University reaching for a Bachelor's in Mathematics with a concentration in
 Applied Statistics and Data Analysis. I would describe myself as a data-driven individual who enjoys taking a challenging
